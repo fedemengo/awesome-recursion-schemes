@@ -90,7 +90,7 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
 
 ## Cheat Sheets
 
-- [The Hitchhiker's Guide to Morphisms](https://ipfs.io/ipfs/QmTppu1VDAQWsdiyVSZX6qb8PErdpwzNP2oKfEhcgaBvWR/guide-to-morphisms.pdf) - Overview of different morphisms including a printable PDF.
+- [The Hitchhiker's Guide to Morphisms](https://web.archive.org/web/20160324175828/http://b-studios.de/assets/guide-to-morphisms.pdf) - Overview of different morphisms including a printable PDF.
 
 ## Podcasts
 
